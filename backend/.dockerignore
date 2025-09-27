@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.coverage
+.gitignore
+.env.dev
+.env.prod
+.vscode
+upload_data_db.py
